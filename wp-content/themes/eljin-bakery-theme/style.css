@@ -10,9 +10,9 @@ Text Domain: eljin
 
 /* Variables */
 :root {
-    --primary-color: #8B4513;
+    --primary-color: #3d008d;
     --secondary-color: #DEB887;
-    --accent-color: #FFD700;
+    --accent-color: #e24800;
     --text-color: #333;
     --bg-color: #FFF8E7;
 }
